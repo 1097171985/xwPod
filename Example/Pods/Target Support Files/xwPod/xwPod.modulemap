@@ -1,0 +1,6 @@
+framework module xwPod {
+  umbrella header "xwPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
